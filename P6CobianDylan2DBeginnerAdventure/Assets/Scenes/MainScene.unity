@@ -191,7 +191,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!4 &144005177
 Transform:
   m_ObjectHideFlags: 0
@@ -308,6 +308,7 @@ MonoBehaviour:
       m_Action: Move
       m_Flags: 8
     m_Flags: 0
+  speed: 10
 --- !u!1 &223880311
 GameObject:
   m_ObjectHideFlags: 0
